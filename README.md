@@ -1,7 +1,7 @@
 # paper-whatsapp-corrections
 
 ## Overview
-These code and data files replicate the results in "I Don’t Think That’s True, Bro! Social Corrections of Misinformation in India" by Sumitra Badrinathan and Simon Chauchard (2023). The conditonally accepted version of the manuscript can be found [here.](https://sumitrabadrinathan.github.io/Assets/paper-whatsapp.pdf)
+These code and data files replicate the results in "I Don’t Think That’s True, Bro! Social Corrections of Misinformation in India" by Sumitra Badrinathan and Simon Chauchard (2023). The conditonally accepted version of the manuscript can be found [here.](https://doi.org/10.1177/19401612231158770)
 
 
 ## Description of Files
